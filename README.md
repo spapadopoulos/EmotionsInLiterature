@@ -1,5 +1,3 @@
 # EmotionsInLiterature
 
-Here I analyse the emotional content in 20th century's English and German literature.
-
-![alt text](https://github.com/spapadopoulos/EmotionsInLiterature/blob/master/output/joy_sadness.png)
+Here I analyse the emotional content in 20th century's English and German literature. For more information please refer to my [blog post](http://sokratispapadopoulos.com/journal/literature-emotions.html)
