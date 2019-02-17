@@ -9,7 +9,7 @@ Here I analyze the emotional content in 20th century's English and German litera
 
 `analysis.ipynb`, calculates z-scores on the processed data and visualizes the output.
 
-## kko
+## Evolution of emotional word use over time
 
 ![](output/tot_emotions.png)
 
